@@ -20,4 +20,9 @@ Here are some ideas to get you started:
 
 Checkout my [youtube channel](https://www.youtube.com/channel/UCEWC_3zEaze1Tjv-WS8Bz5g) for new videos!
 
+- 🔭 I’m currently working on a new secret open source project! 🤭
+- 🌱 I’m currently learning on  [codecademy](https://codecademy.com) and udemy.
+- 👯 I’m looking to collaborate on global warming related projects.
+- 🤔 I’m looking for help with javascript, react.
 
+![](https://media.giphy.com/media/JU9pPnfNOIGFn3w5el/giphy.gif)
