@@ -1,3 +1,6 @@
+![gitHubBanner](https://user-images.githubusercontent.com/25751489/119266322-4506ab00-bbe2-11eb-8504-4b1ffb9e3b8f.png)
+
+
 ## Hi there, I'm Emanuel 👋
 > I ❤ programming and open source‼ 
 
