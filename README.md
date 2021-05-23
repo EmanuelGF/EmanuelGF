@@ -31,4 +31,4 @@ Here are some ideas to get you started:
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EmanuelGF&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 #### 📩 How to reach me: emanuelfaisca@gmail.com or [emanuel-dev portfolio](https://emanuel-dev.com)
-I will also start to create some videos on youtube: [youtube channel](https://www.youtube.com/channel/UCEWC_3zEaze1Tjv-WS8Bz5g) for new videos!
+I will also start to create some videos on youtube: [youtube channel](https://www.youtube.com/channel/UCEWC_3zEaze1Tjv-WS8Bz5g) 
