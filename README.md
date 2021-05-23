@@ -4,9 +4,6 @@
 ## Hi there, I'm Emanuel 👋
 > I ❤ programming and open source‼ 
 
-![GitHub followers](https://img.shields.io/github/followers/EmanuelGF?color=green&style=for-the-badge)
-![GitHub User's stars](https://img.shields.io/github/stars/EmanuelGF?color=green&style=for-the-badge)
-
 <!--
 **EmanuelGF/EmanuelGF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
