@@ -11,11 +11,11 @@
 ![](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
 
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=EmanuelGF&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=EmanuelGF&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=chartreuse-dark" />
 
 #### 📩 How to reach me: emanuelfaisca@gmail.com or [emanuel-dev portfolio](https://emanuel-dev.com)
 
-The first project I ever made is still alive 🚀 [Cardrea.com flashcard creation tool](https://cardrea.com) Go make some flashcards about coding and report any bugs or suggestions 😁🙏
+The first project I ever made is still alive 🚀 [Cardrea.com flashcard creation tool](https://cardrea.com) Go make some flashcards about coding and report any bugs or suggestions 😁🙏 on the [discord chat](https://discord.gg/USMz4VwqPw) 
 
 I will also start to create some videos on youtube: [youtube channel](https://www.youtube.com/channel/UCEWC_3zEaze1Tjv-WS8Bz5g) 
 
