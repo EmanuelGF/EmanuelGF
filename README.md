@@ -4,9 +4,9 @@
 ## Hi there, I'm Emanuel 👋
 > I ❤ programming and open source‼ 
 
-- 🔭 I’m currently working on a new secret open source project! 🤭
+- 🔭 Working on something, learning and contributing! 
 - 🌱 I’m currently learning on  [codecademy](https://codecademy.com) and udemy.
-- 🌲 I’m looking to collaborate on global warming related projects.
+- 🌲 I’m looking to colaborate to javascript projects.
 
 ![](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
 
