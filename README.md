@@ -4,7 +4,7 @@
 ## Hi there, I'm Emanuel 👋
 > I ❤ programming and open source‼ 
 
-- 🔭 Working on something, learning and contributing! 
+- 🔭 Working on projects, learning and contributing! 
 - 🌱 I’m currently learning on  [codecademy](https://codecademy.com) and udemy.
 - 🌲 I’m looking to colaborate to javascript projects.
 
