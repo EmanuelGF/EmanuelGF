@@ -15,9 +15,11 @@
 
 #### 📩 How to reach me: emanuelfaisca@gmail.com or [emanuel-dev portfolio](https://emanuel-dev.com)
 
-The first project I ever made is still alive 🚀 [Cardrea.com flashcard creation tool](https://cardrea.com) Go make some flashcards about coding and report any bugs or suggestions 😁🙏 on the [discord chat](https://discord.gg/USMz4VwqPw) 
+**Watch me code on [TWITCH](https://www.twitch.tv/emanuedev)**
 
 I will also start to create some videos on youtube: [youtube channel](https://www.youtube.com/channel/UCEWC_3zEaze1Tjv-WS8Bz5g) 
+
+The first project I ever made is still alive 🚀 [Cardrea.com flashcard creation tool](https://cardrea.com) Go make some flashcards about coding and report any bugs or suggestions 😁🙏 on the [discord chat](https://discord.gg/USMz4VwqPw) 
 
 ### Tecnologies I use or have used in the past:
 <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/><img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/><img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/><img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/><img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/>
