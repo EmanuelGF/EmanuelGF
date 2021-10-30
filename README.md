@@ -8,8 +8,6 @@
 - 🌱 I’m currently learning on  [codecademy](https://codecademy.com) and udemy.
 - 🌲 I’m looking to colaborate to javascript projects.
 
-![](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
-
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EmanuelGF&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=chartreuse-dark" />
 
