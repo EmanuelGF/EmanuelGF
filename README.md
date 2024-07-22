@@ -1,5 +1,3 @@
-![edevBanner](https://user-images.githubusercontent.com/25751489/183266179-db3cb73a-ea16-4b85-90d6-7086de4eae66.png)
-
 ## Hi there, I'm Emanuel 👋
 > I ❤ programming and learning new coding skills! 
 
