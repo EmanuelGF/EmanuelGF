@@ -9,6 +9,6 @@
 
 ![Streak](https://streak-stats.demolab.com?user=EmanuelGF&theme=dark)
 
-### Most Commmon used tech:
+### Most used tech:
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet)
