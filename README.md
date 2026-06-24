@@ -4,7 +4,7 @@
 - Lots of random stuff in here 💡
 
 #### 📩 How to reach me: [LinkedIn](https://www.linkedin.com/in/emanuel-fa%C3%ADsca-19b100196/)
-#### 🌐 My website: [emanuel-dev](https://emanuelgf.github.io/e-dev)
+#### 🌐 My website: [emanuel-dev](https://emacria.eu)
 
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Software+Developer;Creating+And+Contributing;Always+Learning)
